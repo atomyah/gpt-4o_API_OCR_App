@@ -1,0 +1,6 @@
+# gpt-4oのAPI key
+_config.py
+
+# venv環境
+ocr_venv
+ocr_venv/*
